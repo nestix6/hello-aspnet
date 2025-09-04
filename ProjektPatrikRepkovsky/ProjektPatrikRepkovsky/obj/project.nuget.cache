@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFTbLJUSXWUv7yqRrY0Zhq6MsZWvUAcNG+127E6QBVMaxgLke1NxH06RSL+fm60lgjeK93squJmmNVXxNJkGAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RepkovskýPatrik\\OneDrive - Stredná priemyselná škola elektrotechnická\\aplikacne frameworky\\ProjektPatrikRepkovsky\\ProjektPatrikRepkovsky\\ProjektPatrikRepkovsky.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RepkovskýPatrik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\RepkovskýPatrik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RepkovskýPatrik\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\RepkovskýPatrik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\RepkovskýPatrik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\RepkovskýPatrik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
